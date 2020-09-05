@@ -1,0 +1,27 @@
+{/*
+      1.Create wireframe
+      2.Create React APP
+      3.Cleanup project
+      4.structure of covid Tracker
+      5.Create Header
+      6.Create Info Boxes
+      7.create Tables
+      8.Create Chart
+      9.Create Map
+      10.Styling
+      11.Deploy
+      */}
+
+{/* Header */}
+      <h1>In Production</h1>
+      <h1>Covid-19 Tracker</h1>
+      {/* Title + Select input dropdown field*/}
+
+      {/*InfoBoxs*/}
+      {/*InfoBoxs*/}
+      {/*InfoBoxs*/}
+
+      {/*Table*/}
+      {/*Graph*/}
+
+      {/*Map*/}
